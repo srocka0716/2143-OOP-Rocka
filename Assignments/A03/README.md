@@ -8,8 +8,8 @@ This program implements an array based circular queue.
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   | [main.cpp](https://github.com/srocka0716/2143-OOP-Rocka/blob/main/Assignments/A03/main.cpp) | Main driver of my list program . |
-|   2   | [banner](https://github.com/srocka0716/2143-OOP-Rocka/blob/main/Assignments/A03/banner.cpp) | Banner for program .|
+|   1   | [main.cpp](https://github.com/srocka0716/2143-OOP-Rocka/blob/main/Assignments/A03/main.cpp) | Main for array based queue. |
+|   2   | [banner](https://github.com/srocka0716/2143-OOP-Rocka/blob/main/Assignments/A03/banner.cpp) | Banner for program.|
 
 
 ### Instructions
