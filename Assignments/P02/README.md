@@ -2,7 +2,7 @@
 ### Sum'r Rocka
 ### Description:
 
-While using a starter class created by Dr. Griffin, this program is demonstrating
+While using a starter Vector class created by Dr. Griffin, this program is demonstrating
 how to overload operators, creating a more robust Vector Class. This allows for ease
  when reading the main function for the user.
 
